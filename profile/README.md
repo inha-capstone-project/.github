@@ -1,3 +1,3 @@
 # BYOA
 ## 아키텍처
-![수정본](https://github.com/inha-capstone-project/.github/assets/58386334/02c08ad8-267b-483e-9b03-11fe32c18b0a)
+![수정본](https://github.com/inha-capstone-project/.github/assets/58386334/cc42d20e-01ad-4c54-a8a7-2d9201b8a425)
