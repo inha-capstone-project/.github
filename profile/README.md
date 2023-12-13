@@ -131,29 +131,29 @@
 ``` markdown
 ### 구현에 사용한 Pakages
 
-+ flutter_native_splash: ^2.3.2
++ flutter_native_splash: ^2.3.2 // 앱 화면 스플래쉬 화면
 
-+ flutter_colorpicker: ^1.0.3
++ flutter_colorpicker: ^1.0.3 // 앱내에 컬러를 설정하는 패키지
 
-+ get:
++ get: // 상태관리 패키지
 
-+ cached_network_image: ^3.3.0
++ cached_network_image: ^3.3.0 // 네트워크 이미지를 가져오는 패키지
 
-+ flutter_iconpicker: ^3.2.4
++ flutter_iconpicker: ^3.2.4 // 아이콘을 선택하도록 도와주는 패키지
 
-+ http:
++ http: // 서버 통신 패키지 API 호출 등
 
-+ fluttertoast: ^8.2.3
++ fluttertoast: ^8.2.3 // 메세지를 편하게 출력하게 해주는 패키지
 
-+ dio: ^4.0.0
++ dio: ^4.0.0 // 서버 통신 패키지
 
-+ http_parser: ^4.0.2
++ http_parser: ^4.0.2 // 서버 통신 패키지
 
-+ collection: ^1.15.0
++ collection: ^1.15.0 // 기능 확장 패키지
 
-+ phosphor_flutter:
++ phosphor_flutter: // 그림판 패키지
 
-+ file_picker:
++ file_picker: // 파일 불러오기 패키지
 ```
 
 <br>
